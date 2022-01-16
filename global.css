@@ -21,23 +21,28 @@
 
 h1 {
     font-family: 'VCR OSD Mono';
-    color: #9955ff
+    color: #9955ff;
+    text-shadow: 2px 2px #2c282e;
 }
 h2 {
     font-family: 'monsterrat';
-    color: #9955ff
+    color: #9955ff;
+    text-shadow: 2px 2px #2c282e;
 }
 h3 {
     font-family: 'monsterrat';
-    color: #9955ff
+    color: #9955ff;
+    text-shadow: 2px 2px #2c282e;
 }
 h4 {
     font-family: 'monsterrat';
-    color: #9955ff
+    color: #9955ff;
+    text-shadow: 2px 2px #2c282e;
 }
 p {
     font-family: 'monsterrat';
-    color: white
+    color: white;
+    text-shadow: 2px 2px #8b8b8b;
 }
 
 button {
